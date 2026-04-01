@@ -1,0 +1,5 @@
+{
+  "name": "GlowCode",
+  "description": "Precision skin and hair diagnostic tool powered by Gemini AI, offering personalized chemical formulations and metabolic advice.",
+  "requestFramePermissions": ["camera"]
+}
